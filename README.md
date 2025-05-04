@@ -93,9 +93,9 @@
 </div>
   <div class="products" id="productList">
     <div class="product" data-category="Phone" data-price="450">
-      <img src="https://via.placeholder.com/300x200" alt="Phone">
-      <h3>Samsung A12 Smartphone</h3>
-      <p>6.5" Display - 64GB - 48MP Camera</p>
+      <img src="31AxYznKcrL._AC_US100_.jpg/300x200" alt="Phone">
+      <h3>Stanley Quencher H2.0 </h3>
+      <p>Stanley Quencher H2.0 Tumbler with Handle and Straw 40 oz | Flowstate 3-Position Lid | Cup Holder Compatible for Travel | Insulated Stainless Steel Cup | BPA-Free | Stargaze</p>
       <a class="btn" href="https://kol.jumia.com/yourlink">Buy Now</a>
     </div>
 
