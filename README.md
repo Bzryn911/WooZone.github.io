@@ -3,6 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>WooZone - Digital Products</title>
+  <img src="cercle logo for my degital market with black and yellow with add my website name WooZone.jpg" alt="" type="image/x-icon">
   <style>
     body {
       font-family: 'Arial', sans-serif;
