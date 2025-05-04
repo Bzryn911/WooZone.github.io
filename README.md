@@ -63,6 +63,9 @@
       border-radius: 5px;
       text-decoration: none;
     }
+    a{
+      display:none;
+    }
   </style>
 </head>
 <body>
